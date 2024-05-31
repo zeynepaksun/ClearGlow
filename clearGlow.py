@@ -2,7 +2,7 @@ import sqlite3
 
 def init_database():
     conn = sqlite3.connect('clearGlow.db')
-    cursor = conn.cursor
+    cursor = conn.cursor()
 
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS products (
