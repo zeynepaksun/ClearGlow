@@ -34,7 +34,7 @@ Key features include:
   - Make sure 'tkinter' and 'sqlite3' is installed.
 3. **Initialize Database**
   - Run the 'clearGlow.py' file.
-5. **Run the Application**
+4. **Run the Application**
   - Locate  the 'guiMain.py' file and run it.
 
 ## Usage
